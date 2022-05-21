@@ -7,5 +7,5 @@ TaskA
 TaskC
 - It's only 99% complete since I couldn't find a solution to how to order it first by value of the dictionary 
 - and then by the key. Spent like 2-3 hours on that.
-- There are some stuff that could definitely be done better. For example the amount of most frequent numbers could be a variable. 
+- There are some stuff that could definitely be done better. For example the amount of most frequent letters could be a variable. 
 - Now it's showing just those three.
